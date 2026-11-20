@@ -1,5 +1,7 @@
 # Dyslex.AI — Cognitive Learning & Assistive Reading Suite
 
+[![Live Demo](https://img.shields.io/badge/Live_Demo-Visit_Platform-059669?style=for-the-badge&logo=googlechrome&logoColor=white)](https://templearnse.netlify.app/)
+
 [![React](https://img.shields.io/badge/React-19.2-61dafb.svg?logo=react)](https://react.dev/)
 [![TypeScript](https://img.shields.io/badge/TypeScript-6.0-3178C6.svg?logo=typescript)](https://www.typescriptlang.org/)
 [![Vite](https://img.shields.io/badge/Vite-8.0-646CFF.svg?logo=vite)](https://vitejs.dev/)
