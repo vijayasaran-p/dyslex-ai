@@ -11,6 +11,14 @@ An assistive, gamified cognitive learning interface engineered for children and 
 
 ---
 
+## Interactive Learning Experience & Companion
+
+<p align="center">
+  <img src="public/student-avatar.png" alt="Dyslex.AI Interactive Learning Companion" width="220" />
+</p>
+
+---
+
 ## Technical Highlights & Cognitive Features
 
 1. **Neurodivergent-First Typography & Visual Calming**:
